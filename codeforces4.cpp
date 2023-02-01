@@ -1,3 +1,5 @@
+// If this problem on codeforces https://codeforces.com/contest/2/problem/A required the maximum points to be EXACTLY equal to "m" and not AT LEAST "m", this code would have 
+// got accepted.
 #include <iostream>
 #include <algorithm>
 // #include <vector>
