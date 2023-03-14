@@ -6,6 +6,7 @@
 #include <unordered_map>
 #include <string>
 
+// UPDATE 2:05 PM, 14/3/2023. This code is actually very bad.
 bool comparetor(std::pair<const std::string, int>& a, std::pair<const std::string, int>& b)
 {
     return a.second < b.second;
