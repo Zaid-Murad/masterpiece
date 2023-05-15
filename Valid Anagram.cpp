@@ -90,16 +90,3 @@ public:
 
     }
 };
-
-int main()
-{
-    // A little testcase.
-    Solution s;
-
-    std::string test = "whatever";
-
-    std::string test2 = "what";
-
-    std::cout << s.isAnagram(test, test2);
-
-}
