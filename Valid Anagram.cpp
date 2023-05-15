@@ -26,9 +26,6 @@ private:
     }
 
 public:
-
-
-
     bool isAnagram(std::string& first, std::string& second)
     {
 
